@@ -15,3 +15,4 @@ Project consists of a simple Visual Studio Program that uses classes and methods
 - <b>Windows 10</b> (21H2)
 
 <h2>Link to Program</h2>
+https://github.com/Ejhayn04/Code-for-InStockStatus
